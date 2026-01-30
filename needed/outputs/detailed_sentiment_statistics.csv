@@ -1,0 +1,7 @@
+,total_volume,total_volume,total_volume,total_volume,num_trades,num_trades,num_trades,total_pnl,total_pnl,total_pnl,avg_pnl,avg_pnl,unique_traders,unique_traders,profitable_ratio,profitable_ratio,roi,roi,total_fees
+,mean,std,sum,count,mean,std,sum,mean,std,sum,mean,std,mean,std,mean,std,mean,std,sum
+classification,,,,,,,,,,,,,,,,,,,
+Extreme Greed,39406770.25,,39406770.25,1,6962.0,,6962,176965.49,,176965.49,25.42,,5.0,,0.0,,0.43,,6812.78
+Fear,704158492.98,,704158492.98,1,133871.0,,133871,6699925.19,,6699925.19,50.05,,32.0,,0.01,,0.93,,145018.04
+Greed,38501223.95,56972068.1,115503671.85,3,12096.33,20050.64,36289,1063205.51,1841391.3,3189616.54,30.22,52.21,10.67,15.89,0.01,0.02,1.01,1.77,24334.03
+Neutral,21843234.35,,21843234.35,1,7141.0,,7141,158742.38,,158742.38,22.23,,8.0,,0.01,,0.69,,8743.88

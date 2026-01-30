@@ -1,0 +1,27 @@
+Metric,Value
+Total Days Analyzed,6
+Total Trades,"211,224"
+Total Volume (USD),"$1,191,187,442.46"
+Total PnL (USD),"$10,296,958.94"
+Total Fees (USD),"$245,857.72"
+Net Profit (USD),"$10,051,101.22"
+,
+Avg Volume - Fear,"$704,158,492.98"
+Avg Volume - Greed,"$38,727,610.52"
+Volume Difference %,-94.5%
+,
+Avg PnL - Fear,"$6,699,925.19"
+Avg PnL - Greed,"$841,645.51"
+PnL Difference,"$-5,858,279.68"
+,
+Win Rate - Fear,41.51%
+Win Rate - Greed,46.83%
+Win Rate Diff,+5.32 pp
+,
+ROI - Fear,0.931%
+ROI - Greed,0.864%
+ROI Difference,-0.067 pp
+,
+Correlation: Sentiment-Volume,-0.572
+Correlation: Sentiment-PnL,-0.453
+Correlation: Sentiment-ROI,0.164
